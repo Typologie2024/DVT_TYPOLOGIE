@@ -10,7 +10,7 @@ require([
   "esri/widgets/LayerList"
 ], function(esriConfig, Map, MapView, FeatureLayer,PopupTemplate, Search, Legend, Expand,LayerList ) {
   
-  esriConfig.apiKey ="AAPT3NKHt6i2urmWtqOuugvr9VoYLZPbrnfn1fzdlnSt7HJCofjIa-ihUsuL5WZJZIZ3GAn4CKNEAZqsZUTZeHuF_bkXb55heu6BKryG3PAzYmcyyaWS3gcxoUAtZfJHt2zx0edlFgmPlrRMgl8ovjdFqtozdEph43GqiizmZUFeh66bEAQbz6N4wE6ej-P6G-LYH-VH5NbXViabMmWzo1n2R0buVg0dqGchsSAmPFypFIAGGJQJ4tpDFWcUKN2W0QdO"; 
+  esriConfig.apiK="AAPT3NKHt6i2urmWtqOuugvr9VoYLZPbrnfn1fzdlnSt7HJaCs7HeZh9d0OsJpUrbxOPK-lgO2rZhiwxRLjRHp18CteCAJi3qYknVVeFSWGlrLJ7QckCKBYIuUYmjpyEnKMfjNDLOXhO8Jhj-TH-6mhd1ZtbyTJ4oHnX_XPOlk2OSC8IxMou_K3kUf37TtCBT2z9UYNiLs6O0C23ubcDmvnF9YBk2sAd1YTk4G9l2YOI-VeGoAmTGazDZ6jzmrDC8yOS"; 
   
 
 
